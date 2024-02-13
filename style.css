@@ -30,3 +30,55 @@ body {
 #cards {
     margin: auto;
 }
+
+.card {
+    width: 60%;
+    margin: auto;
+}
+
+.img-fluid {
+    width: 150px;
+    height: auto;
+}
+
+.btn {
+    margin-top: 45px;
+    color: white;
+    border: 1px solid gray;
+}
+
+.info {
+    width: 60%;
+    margin: auto;
+    background-color: #f0f0f0;
+    border: 1px solid black;
+}
+
+.month {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.play-title {
+    font-weight: bold;
+}
+
+h6 {
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+.footer {
+    height: 250px;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+}
+
+.map-img {
+    height: 180px;
+}
+
+h5 {
+    font-size: 24px;
+}
