@@ -81,4 +81,29 @@ h6 {
 
 h5 {
     font-size: 24px;
+    padding-bottom: 20px;
+}
+
+.location {
+    height: 15px;
+    padding-right: 5px;
+}
+
+.mail-icon {
+    height: 15px;
+    padding-right: 5px;
+}
+
+.phone {
+    height: 15px;
+    padding-right: 5px;
+}
+
+.list-unstyled li {
+    padding-bottom: 20px;
+    font-size: 12px;
+}
+
+.list-unstyled li a {
+    color: white;
 }
